@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scenes\Scripts\LevelManager.cs">
+    <Files>
+      <File FileName="Assets\Scenes\Scripts\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\KillPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\Checkpoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\DestroyFinishedParticle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\HealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\CoinPickup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\HurtPlayerOnContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\EnemyPatrol.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\NinjaStarController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts\EnemyHealthController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\stu337651\Documents\2D Platformer\Assets\Scenes\Scripts\ScoreManager.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
